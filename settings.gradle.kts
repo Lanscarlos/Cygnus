@@ -1,4 +1,4 @@
-rootProject.name = "ExampleProject"
+rootProject.name = "Cygnus"
 
 include("plugin")
 include("project:core")
